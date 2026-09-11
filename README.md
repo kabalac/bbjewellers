@@ -32,15 +32,9 @@ Structure & Sections:
 
 Ensure responsive layout across mobile (375px+), tablet, and desktop, with zero horizontal scroll and smooth animations.
 
-This project was built with [Lovable](https://lovable.dev).
 
-## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/95bb772d-e6b4-4fc7-97a0-bfcb7330320e).
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
